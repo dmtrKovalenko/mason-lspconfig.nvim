@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.24.0](https://github.com/williamboman/mason-lspconfig.nvim/compare/v1.23.0...v1.24.0) (2023-11-23)
+
+
+### Features
+
+* add autotools_ls mapping ([#323](https://github.com/williamboman/mason-lspconfig.nvim/issues/323)) ([a547608](https://github.com/williamboman/mason-lspconfig.nvim/commit/a5476087db0a20c05bd1163e1cd4a29b795e73a7))
+
 ## [1.23.0](https://github.com/williamboman/mason-lspconfig.nvim/compare/v1.22.0...v1.23.0) (2023-11-23)
 
 
